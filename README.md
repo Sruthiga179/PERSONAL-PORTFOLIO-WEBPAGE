@@ -125,3 +125,7 @@ This portfolio serves as a platform to present my skills and projects in an orga
 Thank you for visiting my portfolio!
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/eaf052cb-a48a-4dd2-9ce4-461c64bdc09d)
+
+![Image](https://github.com/user-attachments/assets/cd83de3f-5534-498a-bed0-33212f0696d4)
