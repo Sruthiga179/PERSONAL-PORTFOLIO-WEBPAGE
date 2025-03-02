@@ -92,16 +92,6 @@ JavaScript: Used in the Quiz Application project.
 
 These technologies showcase my ability to work across different programming domains.
 
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/your-username/portfolio.git
-
-Open index.html in a browser to view the website.
-
-Modify and customize the content as per your preference.
-
 Future Enhancements
 
 I plan to improve this portfolio with the following features:
